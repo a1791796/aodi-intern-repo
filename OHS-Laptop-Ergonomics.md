@@ -5,3 +5,7 @@ behavioural changes: proper distance between your eyes and the screen. sit up st
 have a break after about 1 hour sitting. 
 
 To maintain good posture: set a timer to remind myself or just listen to your body - have a break when you feel uncomfortable.
+
+workspace change
+Adjust the chair
+Adjust the monitor
