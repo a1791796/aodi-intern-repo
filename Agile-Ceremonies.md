@@ -10,6 +10,6 @@ Retrospectives: look back the working from the last stage.
 
 Backlog Refinement: review the backlog and ensure the appropiate items are done.
 
-I am in the data analystics role and my priority is to show my result to other people, the whole analysing process is not important to other because they might not know the method. So the continuous prioritization is the most important, this is where I put my research result and explain what is behind them. 
+I am in the data analystics role and my priority is to show my result to other people, the whole analysing process is not important to others because they might not know the method. So the Backlog Refinement is the most important, this is where I put my research result and explain what is behind them. I need to make sure I show all valuable information. 
 
 
