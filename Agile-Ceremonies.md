@@ -10,6 +10,8 @@ Retrospectives: look back the working from the last stage.
 
 Backlog Refinement: review the backlog and ensure the appropiate items are done.
 
+
+Which ceremony do you think is most important for your role, and why?
 I am in the data analystics role and my priority is to show my result to other people, the whole analysing process is not important to others because they might not know the method. So the Backlog Refinement is the most important, this is where I put my research result and explain what is behind them. I need to make sure I show all valuable information. 
 
 
