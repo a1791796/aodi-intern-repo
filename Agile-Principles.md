@@ -1,3 +1,6 @@
+What do you think are the biggest benefits and challenges of Agile?
+
+
 The biggest benefit: Agile is very flexible to the changing of enviroment and customers' requirements, especially facing the uncertainty.
 The biggest challenge: more time and energy from each one from the team because developers need to response to the customer's feedback as soon as possible and when there are too many
 requirements from customers, developers easily get confused. 
